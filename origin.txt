@@ -1,0 +1,232 @@
+Uri: https://san-school.ru/mastermind
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\mastermind.html
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/tild6332-3634-4135-b232-383235313730/-/resize/20x/039.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6332-3634-4135-b232-383235313730\-\resize\20x\039.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6331-6334-4139-b737-633939376462/-/resize/20x/88524.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6331-6334-4139-b737-633939376462\-\resize\20x\88524.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6338-3165-4634-b330-643166653963/-/resize/20x/night-moscow-2118871.jpg
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6338-3165-4634-b330-643166653963\-\resize\20x\night-moscow-2118871.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3362-3830-4935-b166-366337383039/-/resize/20x/4798.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3362-3830-4935-b166-366337383039\-\resize\20x\4798.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3532-3138-4863-a162-306239303835/-/resize/20x/024.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3532-3138-4863-a162-306239303835\-\resize\20x\024.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3934-3863-4362-a466-353534616531/-/resize/20x/917.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3934-3863-4362-a466-353534616531\-\resize\20x\917.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3363-6335-4464-b461-633630306661/-/resize/20x/010.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3363-6335-4464-b461-633630306661\-\resize\20x\010.png
+Content Type: image/png
+
+Uri: https://tilda.ws/
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\index.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\index-1.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/tild3366-3965-4264-a430-383531623734/favicon.ico
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3366-3965-4264-a430-383531623734\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3632-6539-4236-b738-656635366562/san-shool-2-152.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3632-6539-4236-b738-656635366562\san-shool-2-152.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://tilda.ws/project966801/tilda-blocks-2.12.css?t=1599127989
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\project966801\tilda-blocks-2.12.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-animation-1.0.min.css
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://kurs.san-school.ru/mm_event
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\mm_event.html
+Content Type: text/html
+
+Uri: https://kurs.san-school.ru/mmevent
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\mmevent.html
+Content Type: text/html
+
+Uri: https://citportal.ru/
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\index-2.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-2.8.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\tilda-scripts-2.8.min.js
+Content Type: application/javascript
+
+Uri: https://tilda.ws/project966801/tilda-blocks-2.7.js?t=1599127989
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\project966801\tilda-blocks-2.7.js
+Content Type: application/x-javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-1.0.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-1.0.min.js
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\js\tilda-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=2283942571868259&ev=PageView&noscript=1
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tr.gif
+Content Type: image/gif
+
+Uri: https://static.tildacdn.com/tild6338-3165-4634-b330-643166653963/night-moscow-2118871.jpg
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6338-3165-4634-b330-643166653963\night-moscow-2118871.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3236-6635-4538-b062-663861333233/011.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3236-6635-4538-b062-663861333233\011.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3362-3830-4935-b166-366337383039/4798.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3362-3830-4935-b166-366337383039\4798.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6165-3661-4463-a664-333464383165/009.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6165-3661-4463-a664-333464383165\009.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6536-3963-4137-b638-316465306233/017.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6536-3963-4137-b638-316465306233\017.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6234-3334-4138-b337-343034333134/020.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6234-3334-4138-b337-343034333134\020.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6261-6664-4334-b766-376232346631/021.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6261-6664-4334-b766-376232346631\021.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3532-3138-4863-a162-306239303835/024.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3532-3138-4863-a162-306239303835\024.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6134-3636-4365-b530-313337313834/022.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6134-3636-4365-b530-313337313834\022.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6564-3162-4739-a339-366335366436/031.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6564-3162-4739-a339-366335366436\031.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6536-3361-4266-b237-653331393233/026.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6536-3361-4266-b237-653331393233\026.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3666-3636-4264-b831-326632633161/032.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3666-3636-4264-b831-326632633161\032.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3431-6132-4533-b731-616538306663/033.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3431-6132-4533-b731-616538306663\033.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3766-6331-4534-b465-393833303063/036.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3766-6331-4534-b465-393833303063\036.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6666-3235-4531-a636-643233663935/037.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6666-3235-4531-a636-643233663935\037.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6266-3838-4436-a636-646637333832/028.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6266-3838-4436-a636-646637333832\028.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3932-6439-4662-a164-356335343338/029.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3932-6439-4662-a164-356335343338\029.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6139-6633-4239-b333-323232383436/034.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6139-6633-4239-b333-323232383436\034.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3733-6138-4437-a430-623466613738/035.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3733-6138-4437-a430-623466613738\035.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3934-3863-4362-a466-353534616531/917.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3934-3863-4362-a466-353534616531\917.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6232-3536-4433-b662-356461623362/003.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6232-3536-4433-b662-356461623362\003.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6332-3634-4135-b232-383235313730/039.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6332-3634-4135-b232-383235313730\039.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3139-3966-4064-a266-346335326638/039.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3139-3966-4064-a266-346335326638\039.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3536-3932-4131-b436-373130613061/038.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3536-3932-4131-b436-373130613061\038.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6239-3837-4363-b264-316238353934/040.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild6239-3837-4363-b264-316238353934\040.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3363-6335-4464-b461-633630306661/010.png
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\tild3363-6335-4464-b461-633630306661\010.png
+Content Type: image/png
+
+Uri: https://mc.yandex.ru/watch/51731192/1
+File Name: Z:\WEB\dc2b.ruabout\san-school.ru-mastermind1\san-school.ru\watch\51731192\1.gif
+Content Type: image/gif
+
